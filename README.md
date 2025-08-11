@@ -46,7 +46,7 @@
     </section>
 
     <footer>
-        <p>© 2025 - Thiết kế bởi Hoàng Quyết</p>
+        <p>© 2025 - Thiết kế bởi Minh Trí</p>
     </footer>
 
     <script src="script.js"></script>
