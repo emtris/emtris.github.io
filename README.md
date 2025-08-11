@@ -178,3 +178,14 @@ footer {
     from { opacity: 0; transform: translateY(50px); }
     to { opacity: 1; transform: translateY(0); }
 }
+// Hiệu ứng hiện khi cuộn
+window.addEventListener("scroll", () => {
+    const elements = document.querySelectorAll(".about, .contact");
+    elements.forEach(el => {
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight - 100) {
+            el.style.opacity = "1";
+            el.style.transform = "translateY(0)";
+        }
+    });
+});
