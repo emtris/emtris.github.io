@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>emtris.id.vn</title>
+  <style>
+    body { font-family: Arial; background-color: #f4f4f4; }
+    header { background: #333; color: white; padding: 10px; text-align: center; }
+    section { padding: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Xin chào!</h1>
+  </header>
+  <section>
+    <p>Đây là trang web đầu tiên của tôi.</p>
+  </section>
+</body>
+</html>
+
