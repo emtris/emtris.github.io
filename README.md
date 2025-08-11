@@ -51,14 +51,4 @@
 
     <script src="script.js"></script>
 
-// Hiệu ứng hiện khi cuộn
-window.addEventListener("scroll", () => {
-    const elements = document.querySelectorAll(".about, .contact");
-    elements.forEach(el => {
-        const rect = el.getBoundingClientRect();
-        if (rect.top < window.innerHeight - 100) {
-            el.style.opacity = "1";
-            el.style.transform = "translateY(0)";
-        }
-    });
-});
+
