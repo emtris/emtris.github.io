@@ -23,7 +23,7 @@
 
     <!-- Trang chủ -->
     <section id="home" class="hero">
-        <h2>Xin chào, mình là <span>Hoàng Quyết</span></h2>
+        <h2>Xin chào, mình là <span>Minh Trí</span></h2>
         <p>Chào mừng bạn đến với website cá nhân của mình</p>
         <a href="#about" class="btn">Xem thêm</a>
     </section>
